@@ -1,0 +1,6 @@
+let n1=Number(prompt("ENTER N1 :"));
+let n2=Number(prompt("ENTER N2 :"));
+let func= n1+n2;
+console.log("addition : ",func);
+let str="garbage";
+console.log("string length for the word garbage : ", str.length);
