@@ -1,0 +1,3 @@
+let fruits = ["apple","grapes","bonsai","grapefruit"];
+console.log("first fruit : ", fruits[0]);
+console.log("last fruit : ", fruits[fruits.length - 1] );
