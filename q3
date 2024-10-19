@@ -1,0 +1,7 @@
+let usernum=Number(prompt("ENTER NUMBER : "));
+if (usernum%2==0){
+    console.log("even");
+}
+else {
+    console.log("odd \n");
+}
