@@ -1,0 +1,8 @@
+let name=prompt("ENTER NAME : ");
+let age=prompt("ENTER AGE : ");
+if (age>18){
+    console.log("ADULT ");
+}
+else {
+    console.log("MINOR ");
+};
