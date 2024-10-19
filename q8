@@ -1,0 +1,2 @@
+let username = prompt("enter name : ");
+alert("Hello "+username+" !");
