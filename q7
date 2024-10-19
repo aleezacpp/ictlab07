@@ -1,0 +1,8 @@
+let obj = {
+    model : "E79901-C31",
+    ownername : "Liam Payne",
+    mfg : "16/4/13",
+    colour : "silver",
+    make : "alumtesla"
+}
+console.log(obj);
